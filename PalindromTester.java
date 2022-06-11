@@ -12,7 +12,6 @@ public class PalindromTester {
 		for (int i = 0; i < word.length(); i++) {
 			dlist.Add(word.charAt(i));
 			slist.push(word.charAt(i));
-
 		}
 		Node current = dlist.head;
 		while (current != null) {
