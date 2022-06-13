@@ -27,7 +27,7 @@ public class PalindromTester {
 			System.out.println("It is polindrome word.");
 		}
 		else {
-			System.out.println("ýt is not polindrome word");
+			System.out.println("It is not polindrome word");
 		}
 	}
 }
